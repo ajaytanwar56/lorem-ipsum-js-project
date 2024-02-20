@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+.lorem{
+    margin-top: 50px;
+
+}
+
+.lorem h2{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.lorem form label{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.lorem form{
+    text-align: center;
+}
+
+.lorem form input{
+    padding: 5px;
+    width: 10%;
+}
+
+.lorem form button{
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+.result{
+    margin: 30px 240px 35px 240px;
+}
